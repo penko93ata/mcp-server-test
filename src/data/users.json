@@ -33,5 +33,12 @@
     "email": "test@test.com",
     "address": "123 Random Street",
     "phone": "126-455-7391"
+  },
+  {
+    "id": 6,
+    "name": "test user",
+    "email": "dsad@dsada.com",
+    "address": "123 dsadas",
+    "phone": "(434) 424-3544"
   }
 ]
