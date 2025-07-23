@@ -18,8 +18,10 @@
     "vite": "^7.0.4"
   },
   "dependencies": {
+    "@ai-sdk/google": "^1.2.22",
     "@inquirer/prompts": "^7.7.1",
     "@modelcontextprotocol/sdk": "^1.16.0",
+    "ai": "^4.3.19",
     "dotenv": "^17.2.0",
     "zod": "^3.25.76"
   }
